@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Directions.png-344a8f4c8e5d6e8631fb09b8ef026edd.stex"
+path="res://.import/Directions.png-d5bc019c0b389eafb60c457c5dc28944.stex"
 
 [deps]
 
-source_file="res://Gles2 HTML export/Directions.png"
-dest_files=[ "res://.import/Directions.png-344a8f4c8e5d6e8631fb09b8ef026edd.stex" ]
+source_file="res://HtmlExport/Directions.png"
+dest_files=[ "res://.import/Directions.png-d5bc019c0b389eafb60c457c5dc28944.stex" ]
 
 [params]
 
